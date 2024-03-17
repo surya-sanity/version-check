@@ -1,0 +1,16 @@
+{
+  "name": "version-check",
+  "version": "1.0.0",
+  "description": "just a sample application to check semantic versioning",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky install"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^9.0.11",
+    "standard-version": "^9.5.0"
+  }
+}
